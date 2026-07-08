@@ -57,3 +57,7 @@ runs
 # other
 *.egg-info
 __pycache__
+
+# Large downloaded archives (not tracked in git)
+*.tar.gz
+*.zip
